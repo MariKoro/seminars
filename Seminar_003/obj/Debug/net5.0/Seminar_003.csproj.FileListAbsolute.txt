@@ -1,0 +1,16 @@
+C:\GB\Seminars\Seminars_lesson_001\Seminar_003\bin\Debug\net5.0\Seminar_003.exe
+C:\GB\Seminars\Seminars_lesson_001\Seminar_003\bin\Debug\net5.0\Seminar_003.deps.json
+C:\GB\Seminars\Seminars_lesson_001\Seminar_003\bin\Debug\net5.0\Seminar_003.runtimeconfig.json
+C:\GB\Seminars\Seminars_lesson_001\Seminar_003\bin\Debug\net5.0\Seminar_003.runtimeconfig.dev.json
+C:\GB\Seminars\Seminars_lesson_001\Seminar_003\bin\Debug\net5.0\Seminar_003.dll
+C:\GB\Seminars\Seminars_lesson_001\Seminar_003\bin\Debug\net5.0\ref\Seminar_003.dll
+C:\GB\Seminars\Seminars_lesson_001\Seminar_003\bin\Debug\net5.0\Seminar_003.pdb
+C:\GB\Seminars\Seminars_lesson_001\Seminar_003\obj\Debug\net5.0\Seminar_003.csproj.AssemblyReference.cache
+C:\GB\Seminars\Seminars_lesson_001\Seminar_003\obj\Debug\net5.0\Seminar_003.GeneratedMSBuildEditorConfig.editorconfig
+C:\GB\Seminars\Seminars_lesson_001\Seminar_003\obj\Debug\net5.0\Seminar_003.AssemblyInfoInputs.cache
+C:\GB\Seminars\Seminars_lesson_001\Seminar_003\obj\Debug\net5.0\Seminar_003.AssemblyInfo.cs
+C:\GB\Seminars\Seminars_lesson_001\Seminar_003\obj\Debug\net5.0\Seminar_003.csproj.CoreCompileInputs.cache
+C:\GB\Seminars\Seminars_lesson_001\Seminar_003\obj\Debug\net5.0\Seminar_003.dll
+C:\GB\Seminars\Seminars_lesson_001\Seminar_003\obj\Debug\net5.0\ref\Seminar_003.dll
+C:\GB\Seminars\Seminars_lesson_001\Seminar_003\obj\Debug\net5.0\Seminar_003.pdb
+C:\GB\Seminars\Seminars_lesson_001\Seminar_003\obj\Debug\net5.0\Seminar_003.genruntimeconfig.cache
